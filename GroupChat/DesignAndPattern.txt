@@ -1,0 +1,10 @@
+      Design Pattern in WhatsApp Chatting Application
+
+1-> Develop a User Interface
+2-> Implement Secure Communication
+3-> Real-Time Communication
+4-> Implement Video Call with Sound
+5-> File Sharing Feature
+6-> Compress Messages
+
+
